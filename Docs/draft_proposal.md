@@ -8,6 +8,8 @@ There are around 18 earthquakes of magnitude 7.0 or higher every year worldwide.
 The dataset is taken from here https://raw.githubusercontent.com/amankharwal/Website-data/master/database.csv. There are 23412 rows and 21 colums.
 
 
+
+
 # Machine Learning Models to predict the Earth Quakes
 
 ## Random Forest
