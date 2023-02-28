@@ -3,6 +3,16 @@ There are around 18 earthquakes of magnitude 7.0 or higher every year worldwide.
 
 90% of earthquakes are naturally occurring and the consequence of tectonic action. 10% of the remaining traits are connected to volcanism, human-caused effects, or other factors. Natural earthquakes are ones that happen naturally and are frequently a lot stronger than other types of earthquakes. The two theories that deal with earthquakes are the continental drift hypothesis and the plate-tectonic theory.
 
+# Why it is Important?
+
+Since they may seriously harm buildings, infrastructure, and people, earthquakes are vital to anticipate. Earthquakes can happen without much notice, and their effects can be catastrophic.
+
+By foreseeing earthquakes, scientists may warn inhabitants in vulnerable locations and develop early warning systems that can lessen the effects of an earthquake. This may entail taking countermeasures to safeguard people and property, such as locking down transit hubs and ordering the evacuation of buildings.
+
+Scientists can get a better understanding of the nature of earthquakes and the underlying geology that drives them by making earthquake predictions. This may result in improved earthquake predicting and mitigation techniques, such as enhanced construction regulations and emergency preparedness plans.
+
+Ultimately, being able to forecast earthquakes is a crucial step in minimizing the harm and fatalities brought on by these natural catastrophes.
+
 # Dataset
 
 The dataset is taken from here https://raw.githubusercontent.com/amankharwal/Website-data/master/database.csv. There are 23412 rows and 21 colums.
