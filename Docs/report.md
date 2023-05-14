@@ -34,6 +34,15 @@ Seaborn.
 ### Objective:
 Through this project i am going to implement a machine learning model for EarthQuake Prediction.
 
+# Data Visulisation
+
+Blue color in the map represents the areas where the frequency of earthquake is less and the red color in the map shows frequency of the earthquake is more.
+
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sumanth_DATA606/assets/123931726/1500ae4f-8c33-4608-9205-f0eea5d99094)
+
+
+
+
 ### Random Forest Model
 
 Random Forest Classifier is an ensemble learning algorithm that combines multiple decision trees to make accurate predictions and reduce overfitting. It is effective for handling large datasets with high dimensionality and is less prone to overfitting compared to other models like Decision Trees.
@@ -54,6 +63,13 @@ Naive Bayes classifier is a simple probabilistic algorithm that is commonly used
 
 ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sumanth_DATA606/assets/123931726/827e948e-b05a-4b1b-8352-ccc3056fa22e)
 ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sumanth_DATA606/assets/123931726/05ba0af7-04ad-428a-825c-316f6fe63c70)
+
+### Confusion Matrix
+
+In machine learning, a confusion matrix is a table that summarizes the performance of a classification model on a set of test data for which the true values are known.The confusion matrix can be used to calculate various metrics to evaluate the performance of a classification model, such as accuracy, precision, recall, and F1-score.
+
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sumanth_DATA606/assets/123931726/e2c6b7bc-2936-49f7-bf30-70ac659ddae4)
+
 
 
 # Accuracy and Results
