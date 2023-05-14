@@ -38,20 +38,38 @@ Through this project i am going to implement a machine learning model for EarthQ
 
 Random Forest Classifier is an ensemble learning algorithm that combines multiple decision trees to make accurate predictions and reduce overfitting. It is effective for handling large datasets with high dimensionality and is less prone to overfitting compared to other models like Decision Trees.
 
-![](Random_Forest.png)
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sumanth_DATA606/assets/123931726/14c587e0-2793-48ac-bbfc-e538eb9a2991)
+
 
 ### Support Vector Machine(SVM)
 
 SVM is a powerful machine learning algorithm used for both classification and regression tasks. It works by finding the hyperplane that best separates the data into different classes, maximizing the margin between the classes. SVM is effective in handling high-dimensional datasets and is less prone to overfitting compared to other algorithms.
 
-![](SVM.png)
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sumanth_DATA606/assets/123931726/7789be36-a57f-4beb-b79a-421ff1858fe3)
+
 
 ### Naive Bayes
 
 Naive Bayes classifier is a simple probabilistic algorithm that is commonly used for classification tasks. It is based on Bayes' theorem, which describes the probability of an event occurring given some prior knowledge or evidence. In the context of classification, Naive Bayes classifier calculates the probability of a data point belonging to a particular class given its features. 
 
-![](predicted.png)
-![](Actual.png)
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sumanth_DATA606/assets/123931726/827e948e-b05a-4b1b-8352-ccc3056fa22e)
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sumanth_DATA606/assets/123931726/05ba0af7-04ad-428a-825c-316f6fe63c70)
 
 
+# Accuracy and Results
+When comparing models, both the mean squared error (MSE) and R-squared (R2) score can be used to evaluate the performance of the models.
+The results obtained from the random forest model  and  SVM are as follows
 
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sumanth_DATA606/assets/123931726/d7ff7025-af31-4d77-a898-b790cfebc34b)
+
+
+The accuracy of the Naïve Bayes model is as follows
+
+![image](https://github.com/DATA-606-SPRING-2023-TUE/Sumanth_DATA606/assets/123931726/f931ad03-5d30-49b4-8f77-d4cf6ac4dd21)
+
+
+# Conclusion
+
+One of the biggest challenges in earthquake prediction is the lack of reliable and consistent data. The occurrence of earthquakes is infrequent and unpredictable, and the data collected from sensors can be noisy and incomplete. Furthermore, earthquakes are influenced by a wide range of factors, including geological, atmospheric, and human factors, which makes it difficult to model the behavior of the system.
+
+From the results of this project, we can conclude that random forest and is the most accurate model for predicting the magnitude of Earthquake compared to all other models used in this project.
