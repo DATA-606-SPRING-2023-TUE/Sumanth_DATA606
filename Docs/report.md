@@ -3,7 +3,8 @@
 ### Data 606 final project report. 
 
 ### - Presentation video:
-### - Project PPt: https://github.com/DATA-606-SPRING-2023-TUE/Sumanth_DATA606/blob/main/Docs/capstone.pptx
+### - Project PPt:
+https://github.com/DATA-606-SPRING-2023-TUE/Sumanth_DATA606/blob/main/Docs/capstone.pptx
 
 ### Introduction:
 Natural disasters like earthquakes can do a lot of damage and kill a lot of people. Precise expectation of quakes is fundamental for growing early advance notice frameworks, fiasco arranging, risk appraisal, and logical examination. There are around 18 earthquakes of magnitude 7.0 or higher every year worldwide. Since 1968, actual yearly numbers have ranged from lows of 6-7 incidents each year. But  earthquakes do have a distinct geographical patterns which can help to identify locations and magnitudes of certain future major earthquakes that are going to be produced, even though we are unable to anticipate individual earthquakes.
@@ -90,3 +91,17 @@ The accuracy of the Naïve Bayes model is as follows
 One of the biggest challenges in earthquake prediction is the lack of reliable and consistent data. The occurrence of earthquakes is infrequent and unpredictable, and the data collected from sensors can be noisy and incomplete. Furthermore, earthquakes are influenced by a wide range of factors, including geological, atmospheric, and human factors, which makes it difficult to model the behavior of the system.
 
 From the results of this project, we can conclude that random forest and is the most accurate model for predicting the magnitude of Earthquake compared to all other models used in this project.
+
+# References
+
+### 1. Team, D. (2022, November 28). Earthquake prediction using machine learning. DataFlair.
+https://data-flair.training/blogs/earthquake-prediction-using-machine-learning/ 
+ 
+### 2. Earthquake prediction using Hybrid Machine Learning Techniques. (n.d.).
+https://www.researchgate.net/publication/352414816_Earthquake_Prediction_using_Hybrid_Machine_Learning_Techniques 
+
+### 3. Martins, G. (2023, February 12). Predicting earthquakes using machine learning. Medium. 
+https://medium.com/marionete/predicting-earthquakes-using-machine-learning-21689435dc52 
+
+### 4. Predicting earthquakes may soon be possible with machine learning. DUG Technology. (2022, April 21). 
+https://dug.com/predicting-earthquakes-may-soon-be-possible-with-machine-learning/ 
