@@ -3,6 +3,7 @@
 ### Data 606 final project report. 
 
 ### - Presentation video:
+### - Project PPt:
 
 ### Introduction:
 Natural disasters like earthquakes can do a lot of damage and kill a lot of people. Precise expectation of quakes is fundamental for growing early advance notice frameworks, fiasco arranging, risk appraisal, and logical examination. There are around 18 earthquakes of magnitude 7.0 or higher every year worldwide. Since 1968, actual yearly numbers have ranged from lows of 6-7 incidents each year. But  earthquakes do have a distinct geographical patterns which can help to identify locations and magnitudes of certain future major earthquakes that are going to be produced, even though we are unable to anticipate individual earthquakes.
