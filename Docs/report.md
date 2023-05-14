@@ -43,6 +43,8 @@ Random Forest Classifier is an ensemble learning algorithm that combines multipl
 
 SVM is a powerful machine learning algorithm used for both classification and regression tasks. It works by finding the hyperplane that best separates the data into different classes, maximizing the margin between the classes. SVM is effective in handling high-dimensional datasets and is less prone to overfitting compared to other algorithms.
 
+![](SVM.png)
+
 ### Naive Bayes
 
 Naive Bayes classifier is a simple probabilistic algorithm that is commonly used for classification tasks. It is based on Bayes' theorem, which describes the probability of an event occurring given some prior knowledge or evidence. In the context of classification, Naive Bayes classifier calculates the probability of a data point belonging to a particular class given its features. 
