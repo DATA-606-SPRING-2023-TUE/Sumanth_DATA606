@@ -38,6 +38,7 @@ Through this project i am going to implement a machine learning model for EarthQ
 
 Random Forest Classifier is an ensemble learning algorithm that combines multiple decision trees to make accurate predictions and reduce overfitting. It is effective for handling large datasets with high dimensionality and is less prone to overfitting compared to other models like Decision Trees.
 
+![](Random_Forest.png)
 
 ### Support Vector Machine(SVM)
 
@@ -49,6 +50,8 @@ SVM is a powerful machine learning algorithm used for both classification and re
 
 Naive Bayes classifier is a simple probabilistic algorithm that is commonly used for classification tasks. It is based on Bayes' theorem, which describes the probability of an event occurring given some prior knowledge or evidence. In the context of classification, Naive Bayes classifier calculates the probability of a data point belonging to a particular class given its features. 
 
+![](predicted.png)
+![](Actual.png)
 
 
 
