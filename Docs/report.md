@@ -34,9 +34,11 @@ Pandas.
 Seaborn.
 
 ### Objective:
-Through this project i am going to implement a machine learning model for EarthQuake Prediction.
+The objective of earthquake prediction using machine learning is to develop models that can accurately forecast when and where earthquakes may occur. This can help in disaster preparedness, allowing people to evacuate or take necessary precautions to minimize the impact of an earthquake.Through this project i am going to implement a machine learning model for EarthQuake Prediction. 
 
 # Data Visulisation
+
+Python provides several libraries for data visualization, including Matplotlib, Seaborn, Plotly, and Bokeh. These libraries allow you to create a wide range of charts and graphs, including bar charts, line charts, scatter plots, histograms, heatmaps, and more.
 
 Blue color in the map represents the areas where the frequency of earthquake is less and the red color in the map shows frequency of the earthquake is more.
 
@@ -49,6 +51,10 @@ Blue color in the map represents the areas where the frequency of earthquake is 
 
 Random Forest Classifier is an ensemble learning algorithm that combines multiple decision trees to make accurate predictions and reduce overfitting. It is effective for handling large datasets with high dimensionality and is less prone to overfitting compared to other models like Decision Trees.
 
+Based on the latitude, longitude, depth, and number of monitoring stations, we predicted earthquake magnitudes with the random forest algorithm. 
+The random forest model was trained on the training data, and its performance on the test data was evaluated using the mean squared error (MSE) and R-squared (R2) score. The data were divided into training and testing sets.
+
+
 ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sumanth_DATA606/assets/123931726/14c587e0-2793-48ac-bbfc-e538eb9a2991)
 
 
@@ -56,12 +62,18 @@ Random Forest Classifier is an ensemble learning algorithm that combines multipl
 
 SVM is a powerful machine learning algorithm used for both classification and regression tasks. It works by finding the hyperplane that best separates the data into different classes, maximizing the margin between the classes. SVM is effective in handling high-dimensional datasets and is less prone to overfitting compared to other algorithms.
 
+It can handle both linear and non-linear data by using different kernels, such as linear, polynomial, and radial basis function (RBF) kernels.
+ It can be used to predict the magnitude of a new earthquake given its features, which can be useful for predicting earthquakes in real-time and understanding the factors that contribute to earthquake occurrence.
+
 ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sumanth_DATA606/assets/123931726/7789be36-a57f-4beb-b79a-421ff1858fe3)
 
 
 ### Naive Bayes
 
 Naive Bayes classifier is a simple probabilistic algorithm that is commonly used for classification tasks. It is based on Bayes' theorem, which describes the probability of an event occurring given some prior knowledge or evidence. In the context of classification, Naive Bayes classifier calculates the probability of a data point belonging to a particular class given its features. 
+
+Based on the latitude, longitude, and number of monitoring stations, we predicted earthquake magnitude with the Naive Bayes classifier. We split the information into preparing and testing sets, prepared the Innocent Bayes model on the preparation information, and assessed its exhibition on the test information utilizing the exactness score, disarray grid and characterization report.
+
 
 ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sumanth_DATA606/assets/123931726/827e948e-b05a-4b1b-8352-ccc3056fa22e)
 ![image](https://github.com/DATA-606-SPRING-2023-TUE/Sumanth_DATA606/assets/123931726/05ba0af7-04ad-428a-825c-316f6fe63c70)
