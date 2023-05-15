@@ -3,6 +3,7 @@
 ### Data 606 final project report. 
 
 ### - Presentation video:
+https://youtu.be/IhRtCUs2prk
 ### - Project PPt:
 https://github.com/DATA-606-SPRING-2023-TUE/Sumanth_DATA606/blob/main/Docs/capstone.pptx
 
